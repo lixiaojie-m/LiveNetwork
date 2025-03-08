@@ -1,0 +1,15 @@
+E:\LiveNetwork\bin\Debug\net6.0-windows\live_network.exe
+E:\LiveNetwork\bin\Debug\net6.0-windows\app.ico
+E:\LiveNetwork\bin\Debug\net6.0-windows\live_network.deps.json
+E:\LiveNetwork\bin\Debug\net6.0-windows\live_network.runtimeconfig.json
+E:\LiveNetwork\bin\Debug\net6.0-windows\live_network.dll
+E:\LiveNetwork\bin\Debug\net6.0-windows\live_network.pdb
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.GeneratedMSBuildEditorConfig.editorconfig
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.AssemblyInfoInputs.cache
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.AssemblyInfo.cs
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.csproj.CoreCompileInputs.cache
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.dll
+E:\LiveNetwork\obj\Debug\net6.0-windows\refint\live_network.dll
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.pdb
+E:\LiveNetwork\obj\Debug\net6.0-windows\live_network.genruntimeconfig.cache
+E:\LiveNetwork\obj\Debug\net6.0-windows\ref\live_network.dll
